@@ -1,6 +1,6 @@
 <?php
 
-require ("db/dbh.php");
+require("db/dbh_backend.php");
 
 $returnValue = array();
 
